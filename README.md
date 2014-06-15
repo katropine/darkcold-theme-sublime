@@ -3,6 +3,10 @@ Theme - DarkCold Sublime
 
 Dark theme for Sublime text editor 
 
+
+![Alt text](theme-darkcold-katropine.png "DarkCold")
+
+
 Install
 -----------------------
 
